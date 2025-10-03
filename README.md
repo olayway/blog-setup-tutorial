@@ -3,7 +3,7 @@ title: Welcome to My Flowershow Site!
 description: A simple starting point for the tutorial—clean hero, quick links, and a placeholder for latest posts.
 image: "[[hero.png]]"
 showHero: "true"
-showToc: "false"
+showToc: false
 ---
 ## 👋 Hey there!
 
