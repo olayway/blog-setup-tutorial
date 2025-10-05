@@ -2,7 +2,7 @@
 title: Add a Blog Section to Your Flowershow Site
 description: This is a simple starting point for the tutorial.
 image: "[[hero.png]]"
-showHero: "true"
+showHero: true
 showToc: false
 ---
 ## 👋 Hey there!
@@ -25,4 +25,8 @@ We’ll create:
 6. Newsletter form embed  
 7. Theme selection in `config.json`
 
+<<<<<<< HEAD
 Let’s build it step by step!
+=======
+Let’s build it step by step!
+>>>>>>> 945145c (init)
