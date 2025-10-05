@@ -1,6 +1,6 @@
 ---
-title: Welcome to My Flowershow Site!
-description: A simple starting point for the tutorial—clean hero, quick links, and a placeholder for latest posts.
+title: Add a Blog Section to Your Flowershow Site
+description: This is a simple starting point for the tutorial.
 image: "[[hero.png]]"
 showHero: "true"
 showToc: false
