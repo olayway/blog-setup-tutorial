@@ -25,8 +25,4 @@ We’ll create:
 6. Newsletter form embed  
 7. Theme selection in `config.json`
 
-<<<<<<< HEAD
 Let’s build it step by step!
-=======
-Let’s build it step by step!
->>>>>>> 945145c (init)
