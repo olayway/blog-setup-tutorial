@@ -1,9 +1,0 @@
-{
-  "nav": {
-    "title": "Hello Flowershow!",
-    "links": [
-      { "href": "/blog", "name": "Blog" }
-    ]
-  },
-  "theme": "lessflowery"
-}
