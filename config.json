@@ -4,5 +4,8 @@
     "links": [
       { "href": "/blog", "name": "Blog" }
     ]
+  },
+  "theme": {
+    "theme": "lessflowery"
   }
 }
