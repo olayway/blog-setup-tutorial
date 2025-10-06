@@ -3,12 +3,6 @@
     "title": "Hello Flowershow!",
     "links": [
       { "href": "/blog", "name": "Blog" }
-    ],
-    "social": [
-      { "label": "github", "href": "https://github.com/flowershow/flowershow", "name": "GitHub" },
-      { "label": "x", "href": "https://x.com/flowershowapp", "name": "X" },
-      { "label": "reddit", "href": "https://www.reddit.com/r/flowershow/", "name": "Reddit" },
-      { "label": "discord", "href": "https://discord.gg/JChzM5VdFn", "name": "Discord" }
     ]
   }
 }
